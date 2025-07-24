@@ -33,7 +33,7 @@
     "react-native-light-loader"
   ],
   "author": "Ramij Dafadar",
-  "license": "ISC",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/ramijd/react-native-light-loader.git"
