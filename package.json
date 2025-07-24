@@ -1,6 +1,6 @@
 {
   "name": "react-native-light-loader",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A lightweight, customizable, and fully animated loader component library for React Native and Expo apps.",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
