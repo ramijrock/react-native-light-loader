@@ -1,0 +1,15 @@
+export const loaderColor = [
+    "red",
+    "tomato",
+    "orange",
+    "yellow",
+    "teal",
+    "green",
+    "cyan",
+    "royalblue",
+    "blue",
+    "purple",
+    "pink",
+    "violet",
+    "indigo",
+]

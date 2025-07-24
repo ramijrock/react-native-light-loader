@@ -4,4 +4,5 @@ export interface LoaderProps {
   size?: number;
   color?: string;
   style?: ViewStyle;
+  visible: boolean;
 }

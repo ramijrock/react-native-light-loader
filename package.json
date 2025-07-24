@@ -37,5 +37,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/ramijd/react-native-light-loader.git"
+  },
+  "dependencies": {
+    "react-native-modal": "^14.0.0-rc.1"
   }
 }

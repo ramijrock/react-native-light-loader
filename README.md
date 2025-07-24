@@ -26,7 +26,7 @@ import { Loader } from 'react-native-light-loader';
 export default function App() {
   return (
     <SafeAreaView style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
-      <Loader size={50} color="red" />
+      <Loader size={50} color="red" visible={true} />
     </SafeAreaView>
   );
 }
@@ -39,3 +39,4 @@ export default function App() {
 | `size`  | `number`    | `40`        | Loader size (width & height) |
 | `color` | `string`    | `#007AFF`   | Loader color                 |
 | `style` | `ViewStyle` | `undefined` | Custom container styles      |
+| `visible`| `boolean`  | `false`     | Custom loader visible        |
